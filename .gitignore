@@ -1,0 +1,4 @@
+*/pynb/.ipynb_checkpoints/
+*.out
+*.pth
+*.pdf
